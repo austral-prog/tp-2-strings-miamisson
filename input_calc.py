@@ -3,8 +3,8 @@ def rectangle():
     el área y el perímetro.
     """
     pass
-    base = int(input("base:"))
-    altura = int(input("altura:"))
+    #base = int(input("base:"))
+    #altura = int(input("altura:"))
     area = base * altura
     perimetro = 2*base + 2*altura
     print("Base:", base)
