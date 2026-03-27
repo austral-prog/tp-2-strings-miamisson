@@ -25,13 +25,13 @@ def ficha():
     #   - Las 3 notas, su suma, promedio y promedio entero
     #   - Cierre decorativo usando repetición de string ("=" * 24)
     pass
-    # nombre_completo = input("Nombre completo: ")
+    nombre_completo = input("Nombre completo: ")
     nombre_strip= nombre_completo.strip()
     nombre_lower=nombre_completo.lower()
-    # email = input("Email: ")
-    # nota1 = input("nota: ")
-    # nota2 = input("nota: ")
-    # nota3 = input("nota: ")
+    email = input("Email: ")
+    nota1 = input("nota: ")
+    nota2 = input("nota: ")
+    nota3 = input("nota: ")
 
     titulo = "    FICHA DEL ALUMNO"
     deco = "="*24
