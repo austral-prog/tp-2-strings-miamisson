@@ -12,4 +12,4 @@ def string_info():
 
 
 
-string_info()
+#string_info()

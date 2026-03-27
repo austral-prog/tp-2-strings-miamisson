@@ -11,4 +11,4 @@ def rectangle():
     print("Altura:", altura)
     print("Area:", area)
     print("Perimetro:", perimetro)
-rectangle()
+#rectangle()

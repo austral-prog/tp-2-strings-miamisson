@@ -6,8 +6,8 @@ def string_methods():
     nombre = "   Grace Hopper   "
     frase = "Python es un gran lenguaje de programacion"
     multilinea = """Linea 1
-    Linea 2
-    Linea 3"""
+Linea 2
+Linea 3"""
     print("Strip: "+nombre.strip())
     print("Lstrip: "+nombre.lstrip())
     print("Rstrip: "+nombre.rstrip())
@@ -23,6 +23,6 @@ def string_methods():
     print("Paso: "+frase[:6:2])
     print("Reverso: "+frase[5::-1])
     print(f"Formato: {nombre.strip()} sabe {frase[:6]}" )
-    print("Linea 1\nLinea 2\nLinea 3")
+    print(multilinea)
 
-string_methods()
+#string_methods()

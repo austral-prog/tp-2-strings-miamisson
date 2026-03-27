@@ -74,4 +74,4 @@ def ficha():
 
 
 
-ficha()
+#ficha()

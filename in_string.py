@@ -10,4 +10,4 @@ def check_vowels():
     print("Contiene i:", 'i' in minuscula)
     print("Contiene o:", 'o' in minuscula)
     print("Contiene u:", 'u' in minuscula)
-check_vowels()
+#check_vowels()
